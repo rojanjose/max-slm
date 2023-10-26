@@ -19,8 +19,8 @@ const { NODE_ENV, LOCAL_IMAGES } = process.env;
 const remoteImagesSettings = {
   resolve: require.resolve(`./src/plugins/gatsby-remark-remote-git-images`),
   options: {
-    user: 'ibm-build-lab',
-    repo: 'max-slm',
+    user: 'rojanjose',
+    repo: '/max-slm',
     branch: 'main',
     pathPrefix: 'content'
   }

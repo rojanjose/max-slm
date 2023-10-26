@@ -16,7 +16,8 @@
     "clean": "gatsby clean",
     "typecheck": "tsc --noEmit",
     "lint": "eslint . --ext js,md,mdx,ts,tsx,mjs",
-    "lint:fix": "eslint . --ext js,md,mdx,ts,tsx,mjs --fix"
+    "lint:fix": "eslint . --ext js,md,mdx,ts,tsx,mjs --fix",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "dependencies": {
     "@carbon/react": "^1.25.0",
