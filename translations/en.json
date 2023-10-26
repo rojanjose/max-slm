@@ -1,0 +1,8 @@
+{
+  "landingPageTitle": "SLM with Teamcenter & Maximo Manage",
+  "landingPageContent": "This site contains focused training content for sellers interested in selling IBM Maximo Manage & Siemens Teamcenter. The content is organized into three modules. L1 module covers core capabilities of Manage and enabling Service Lifecycle Management using Teamcenter with Maximo Manage. L2 content provides an introduction to Maximo Manage add-ons and Industry Solutions. L3 module teaches sellers how to setup an SLM demo environment.",
+  "landingPageQuizAlert": " ",
+  "landPageTileUpdated": "Updated {{date}}",
+  "landPageTileTitle": "Go to {{name}} lab materials",
+  "QuizAlertDefault": "Heads up! Parts of this section will be on the quiz."
+}
