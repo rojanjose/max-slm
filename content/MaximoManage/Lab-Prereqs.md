@@ -1,10 +1,10 @@
 ---
-title: Manage Lab 1
+title: Lab Prerequisites
 timeToComplete: 180
 updated: 2023-10-25
 ---
 
-# Maximo Application Suite
+# Lab Prerequisites
 
 In this lab you will get a tour of how 4 key applications within Maximo Application Suite (MAS) can be used to troubleshoot a real world situation. All L3 Quiz questions can be answered using this lab.
 

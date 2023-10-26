@@ -1,5 +1,5 @@
 ---
-title: Application Suite Prereqs
+title: Techzone Demo Environment
 timeToComplete: 30
 updated: 2023-03-24
 ---
