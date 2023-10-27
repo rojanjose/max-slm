@@ -40,7 +40,7 @@ const config = {
   trailingSlash: 'never',
   pathPrefix: '/max-slm',
   siteMetadata: {
-    title: `Manage SLM Workshop`,
+    title: `SLM Sales Enablement Workshop`,
     description: 'Learn SLM with Maximo Manage.',
     image: '',
     siteUrl: `https://rojanjose.github.io/max-slm/`
