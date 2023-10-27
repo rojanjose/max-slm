@@ -33,14 +33,14 @@ To complete this step, get the credentials for the lab from the `lab prereqs` se
 
    ![](_attatchments/mas/suite-navigator.png)
 
-4. Click the **Monitor** tile on the **Welcome** screen that opens.
+4. You have reached the Manage landing page.
 
    ![](_attatchments/mas/monitor-root.png)
 
 
 
 
-
+5. 
 ### Step 3: Review Asset Work order history
 
 Next, the Operations Manager wants to look at this pump's maintenance history to see if there were any recent services done on it that could be the cause of the current problem.
