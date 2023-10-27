@@ -4,10 +4,11 @@ timeToComplete: 180
 updated: 2023-10-25
 ---
 
-# Lab Prerequisites
+# 1. Lab Prerequisites
 
-In this lab you will get a tour of how 4 key applications within Maximo Application Suite (MAS) can be used to troubleshoot a real world situation. All L3 Quiz questions can be answered using this lab.
+Click on the link below to access the Maximo lab environment. It also includes access information for the demo environments. 
 
+[Lab Credentials](https://ibm.box.com/shared/static/f9ez6kpbwkwstkjp4nbrc0dt7jr3h05s.docx)
 
 ## Lab Story Line
 

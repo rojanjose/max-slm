@@ -1,5 +1,5 @@
 ---
-title: Work with assets
+title: 2. Work with assets
 timeToComplete: 180
 updated: 2023-10-26
 ---
