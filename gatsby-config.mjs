@@ -21,8 +21,7 @@ const remoteImagesSettings = {
   options: {
     user: 'rojanjose',
     repo: '/max-slm',
-    branch: 'main',
-    pathPrefix: 'content'
+    branch: 'main'
   }
 };
 
@@ -39,11 +38,12 @@ const useLocalImages = isDev || LOCAL_IMAGES == 'true';
 
 const config = {
   trailingSlash: 'never',
+  pathPrefix: '/max-slm',
   siteMetadata: {
     title: `Manage SLM Workshop`,
     description: 'Learn SLM with Maximo Manage.',
     image: '',
-    siteUrl: `https://vest.buildlab.cloud/`
+    siteUrl: `https://rojanjose.github.io/max-slm/`
   },
   graphqlTypegen: true,
   plugins: [
