@@ -7,8 +7,6 @@ toc: false
 
 The goal of this session is to learn the extended capabilities of Maximo Manage. It offers an introduction to Industry Solutions and Add-ons. We then take a deeper look at few solutions and Add-ons.
 
-Navigating Partner portal (20 minutes)
-
 | Topics |
 | ------ |
 | <strong> Maximo Manage – Core capabilities </strong> (20 minutes) <br /> (Asset, Service Requests, Work & Schedule Management; inventory, Procurement & Reporting ) <br /> [Presentation]() |
