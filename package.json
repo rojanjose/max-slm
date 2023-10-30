@@ -1,9 +1,9 @@
 {
-  "name": "vad-var-site",
+  "name": "max-slm-site",
   "version": "1.0.0",
   "private": true,
   "description": "Static site to host VEST workshops",
-  "author": "jbukuts",
+  "author": "rjose",
   "keywords": [
     "gatsby"
   ],

@@ -1,10 +1,10 @@
 ---
-title: Techzone Demo Environment
+title: 4. Techzone Demo Environment
 timeToComplete: 30
 updated: 2023-03-24
 ---
 
-# Maximo Application Suite Lab Prerequisites
+# Provisioning Techzone demo environment
 
 ## Demo Lab Environment Access
 

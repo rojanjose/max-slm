@@ -12,6 +12,7 @@ In this lab you will get a tour of how Asset application within Maximo Manage to
 ## Lab Story Line
 
 A Water Resource Authority (WRA) is setting a new plant and wants to configure the assets used for wastewater treatment.
+This lab walks you through the steps an Asset Manager will take to create the assets manually in the system.
 
 ## Lab Script
 
@@ -23,7 +24,7 @@ To complete this step, get the credentials for the lab from the `lab prereqs` se
 
 1. Click on this [Maximo Application Suite Lab Environment](https://masdev.home.mas-siemens.buildlab.cloud/) URL link to launch IBM Maximo Application Suite and bring up the login page.
 
-2. The **IBM Maximo Application Suite** login page opens in a web browser.
+2. The `IBM Maximo Application Suite` login page opens in a web browser.
 
    - Enter the Maximo Manage `Username` found in lab credentials page and click on `Continue`. Enter the  `Password`  and click `Log in`.
 
@@ -33,40 +34,47 @@ To complete this step, get the credentials for the lab from the `lab prereqs` se
 
    ![](_attatchments/mas/suite-navigator.png)
 
-4. You have reached the Manage landing page.
+4. You have reached the Manage landing page. The landing page can be configured with portlets to provide quick access and information summary as a dashboard.
 
-   ![](_attatchments/mas/monitor-root.png)
+   ![](_attatchments/mas/manage-home.png)
 
-
-
-
-5. 
-### Step 3: Review Asset Work order history
+### Step 2: Create an asset
 
 Next, the Operations Manager wants to look at this pump's maintenance history to see if there were any recent services done on it that could be the cause of the current problem.
 
-18. On the **Asset Information** card on this dashboard (bottom right), click on the **PMPDEVICE005** hyperlink under the **Asset_ID** column to open Maximo Manage. 🟢
+5. Form the left navigation menu, select `Assets > Asset`. Place the cursor in the first `Asset` filter box (highligher in blue) and press the enter key. The list of assets will in the system will display as shown in the image below.
 
-    ![](_attatchments/mas/monitor-manage-asset-link.png)
+    ![](_attatchments/mas/manage-assets-landing.png)
 
-19. The Maximo **Manage** window opens in a separate browser tab.
+6. Let's create a new `Pump Assembly` asset needed by the Water Resource Authority. Click on the `New Asset` link under **Common Actions** to create new asset. Enter the fields as described below.
 
-    ![](_attatchments/mas/manage-assets.png)
+    - Asset number: Number starting with you initial (eg: `RJ`PMP9900)
+    - Description: `RJ` Pump Assembly
+    - Site: SITE1
 
-20. Select the **Work** tab **(A)** and then click on the filter icon (funnel) to see the available filter options **(B)**.
-21. Type **“COMP”** in the **Status** box in the **Work Order** section to filter recent completed work orders for this pump **(C)**. Press **Return** on the keyboard to apply the filter.
+    ![](_attatchments/mas/manage-create-asset.png)
 
-    ![](_attatchments/mas/manage-assets-work.png)
+7. Select the `Spare Parts` tab and click on the `Select Spare Parts` buttons to view the list of available spare parts.
 
-22. This is where the Operations Manager can review previously completed work orders to make informed decisions on how to proceed with any maintenance. Let’s assume they did not see any recent work orders that seem relevant.
+    ![](_attatchments/mas/manage-select-spare-parts.png)
 
-23. The Operations Manager is convinced a new Service Request needs to be opened for investigation. Close the **Manage** browser tab **(A)**.
+8. Select a few spare parts and click on the `OK` button to link those spare parts with the asset.
 
-24. Return to the **Monitor** browser tab (where you started this demo) to view the **PMPDEVICE005** dashboard in Maximo Monitor **(B)**.
+    ![](_attatchments/mas/manage-link-spare-parts.png)
 
+9. Click on `Floppy disk` icon at the top right to save the new asset.
 
+### Step 3: Create a new spare part
 
+10. Select the `Item Master` application from the list of applications by using the search bar called `Find Navigation item` in the left navigation bar. Click o the `New Item` under **Common Actions** to create a new Item Master. Enter the fields as described below.
 
+    - Item number: Number starting with you initial (eg: `RJ`-CASING)
+    - Description: `RJ` Casing
+    - Add as a Spare part: true
+
+    ![](_attatchments/mas/manage-add-spare-part.png)
+
+    Click on the save icon to save the spare part.
 
 ## Closing Remarks
 

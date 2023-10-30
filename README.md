@@ -1,8 +1,6 @@
 # Maximo Manage / SLM Workshop
 
-This repo contains the site code for IBM Ecosystem partner content (primarily our Value-Added Distributors and Value-Added Resellers) to build experiential sales skills with various IBM products.
-
-To see the content itself visit: https://vest.buildlab.cloud/
+This repo contains the seller enablement material for Maximo and SLM with Teamcenter.
 
 Built using:
 
