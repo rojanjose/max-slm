@@ -6,18 +6,18 @@ updated: 2023-10-25
 
 # Using Service Requests & Work Orders
 
-In this lab you will get a tour of how create service request and work orders.
+In this lab you will get a tour on how create service request and work orders.
 
 
 ## Lab Story Line
 
-Quality inspections happen at  Water Resource Authority (WRA) on a scheduled basis. For any signs of concern, a Quality Inspector would open a Service Request to bring the issue to Operation Manager's attention. The Operations Manager reviews the service request and determines if a Service Technician should be engagement or not. The Operations Manager creates a Work Order and assigns it to a technician. 
+Quality inspections happen at  Water Resource Authority (WRA) on a scheduled basis. For any signs of concern, a Quality Inspector would open a Service Request to bring the issue to Operation Manager's attention. The Operations Manager reviews the service request and determines if a Service Technician should be engagement or not. The Operations Manager then creates a `Work Order` and assigns it to a technician. 
 
 ## Lab Script
 
 ### Step 1: Create Service Request
 
-
+The inspector notices vibrations in a pump during a routine inspection. The inspector creates a service request to notify the issue to the operations manager.
 
 **Actions:**
 
@@ -25,7 +25,7 @@ Quality inspections happen at  Water Resource Authority (WRA) on a scheduled bas
 
     ![](_attatchments/mas/manage-sr-application.png)
 
-2. Click on `New Service Request` to start creating the service request. Scroll down and enter the fields.
+2. Click on `New Service Request` under `Common actions` to start creating the service request. Scroll down and enter the fields.
 
    - Summary: Loud vibrations
    - Description: Enter a suitable description
@@ -56,7 +56,7 @@ The Operations Manager for this Water Resource Authority (WRA) receives the newl
 
    ![](_attatchments/mas/manage-wo-open.png)
 
-### Step 2: Create a Work order from Service Request
+### Step 2: Take actions on a Work Order
 
 The Technician then reviews the work order and perform the corrective actions. He then updates the work order log with information about the work that was performed.
 
@@ -73,6 +73,6 @@ The Technician then reviews the work order and perform the corrective actions. H
 
 ## Closing Remarks
 
-This exercise has shown how an Inspector, Operations Manager and Technician can all work together to identify an issue and drive it to resolution using the service request and work order application in Maximo Manage.
+This exercise has shown how an Inspector, Operations Manager and Technician can all work together to identify an issue and drive it to resolution using the service request and work order applications in Maximo Manage.
 
 

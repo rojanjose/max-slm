@@ -9,11 +9,11 @@ The goal of this session is to learn the extended capabilities of Maximo Manage.
 
 | Topics |
 | ------ |
-| <strong> Maximo Manage – Core capabilities </strong> (20 minutes) <br /> (Asset, Service Requests, Work & Schedule Management; inventory, Procurement & Reporting ) <br /> [Presentation]() |
-| <strong> How to demo Maximo Manage </strong> (30 minutes) <br /> (Accessing demo environments, showcasing core Manage capabilities ) <br /> [Presentation]() |
-| <strong> Manage hands-on lab </strong> (30 minutes) <br /> (Solution features, pricing and access to demo) <br /> [Presentation]() |
-| <strong> SLM with Manage & Teamcenter </strong> (20 minutes) <br /> (Service lifecycle: Asset configuration & job plan import; work order logs & fault codes export ) <br /> [Presentation]() <br />
-<strong> Demo: Maximo Team center integration </strong> (20 minutes) |
+| <strong> Maximo Manage – Core capabilities </strong> (20 minutes) <br /> (Asset, Service Requests, Work & Schedule Management; inventory, Procurement & Reporting ) <br /> [Presentation](https://ibm.box.com/shared/static/v2p7h258lpmxpofqt92mqi5acsu3kku8.pptx) |
+| <strong> How to demo Maximo Manage </strong> (30 minutes) <br /> (Accessing demo environments, showcasing core Manage capabilities ) |
+| <strong> Manage hands-on lab </strong> (30 minutes) <br /> (Solution features, pricing and access to demo) <br /> |
+| <strong> SLM with Manage & Teamcenter </strong> (20 minutes) <br /> (Service lifecycle: Asset configuration & job plan import; work order logs & fault codes export ) <br /> [Presentation](https://ibm.box.com/shared/static/bl4qcvfnf7wigchrfdq4zt51kjkkwydr.pptx) <br />
+<strong> Demo: Maximo Teamcenter integration </strong> (20 minutes) <br /> |
 | <strong> Navigating Partner portal </strong> (20 minutes) <br /> (Accessing seller training material, product sizing & pricing considerations) <br /> |
 
 
