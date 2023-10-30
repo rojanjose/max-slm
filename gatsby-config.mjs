@@ -20,8 +20,9 @@ const remoteImagesSettings = {
   resolve: require.resolve(`./src/plugins/gatsby-remark-remote-git-images`),
   options: {
     user: 'rojanjose',
-    repo: '/max-slm',
-    branch: 'main'
+    repo: 'max-slm',
+    branch: 'master',
+    pathPrefix: 'content'
   }
 };
 
@@ -38,7 +39,7 @@ const useLocalImages = isDev || LOCAL_IMAGES == 'true';
 
 const config = {
   trailingSlash: 'never',
-  pathPrefix: '/max-slm',
+  pathPrefix: 'max-slm',
   siteMetadata: {
     title: `SLM Sales Enablement Workshop`,
     description: 'Learn SLM with Maximo Manage.',
