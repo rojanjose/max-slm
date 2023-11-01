@@ -15,14 +15,14 @@ Click on the link below to access the Maximo lab environment. It also includes a
 
 The purpose of this lab is to provide an introduction to process of setting up assets and manage work orders. This exercise exposes the user to the process of manual data entry required to create these objects and their relationships. The Service Lifecycle Management flows aim to automate many of the data entry steps carried out in this lab.
 
-1. Create Asset: How create a new asset and associate attributes such as spare parts.
+1. [Create Asset](/maximomanage/manage-work-with-assets): How create a new asset and associate attributes such as spare parts.
 
-2. Create Spare Part: Create a new spare part and associate it with an asset.
+2. [Create Spare Part](/maximomanage/manage-work-with-assets): Create a new spare part and associate it with an asset.
 
-3. Create Service Request: Report issues found during inspection via a service request.
+3. [Create Service Request](/maximomanage/manage-work-with-wos): Report issues found during inspection via a service request.
 
-4. Create Work Order: Act on a service request and create a work order to resolve the issue.
+4. [Create Work Order](/maximomanage/manage-work-with-wos): Act on a service request and create a work order to resolve the issue.
 
-5. Access `Techzone Demo` Environment: Run through the process of requesting access to the Techzone demo environment.
+5. [Access Techzone Demo Environment](/maximomanage/techzone-environment): Run through the process of requesting access to the Techzone demo environment.
 
 

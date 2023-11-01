@@ -9,12 +9,10 @@ The goal of this session is to learn the extended capabilities of Maximo Manage.
 
 | Topics |
 | ------ |
-| <strong> Maximo Manage – Core capabilities </strong> (20 minutes) <br /> (Asset, Service Requests, Work & Schedule Management; inventory, Procurement & Reporting ) <br /> [Presentation]() |
-| <strong> How to demo Maximo Manage </strong> (30 minutes) <br /> (Accessing demo environments, showcasing core Manage capabilities ) <br /> [Presentation]() |
-| <strong> Manage hands-on lab </strong> (30 minutes) <br /> (Solution features, pricing and access to demo) <br /> [Presentation]() |
-| <strong> SLM with Manage & Teamcenter </strong> (20 minutes) <br /> (Service lifecycle: Asset configuration & job plan import; work order logs & fault codes export ) <br /> [Presentation]() <br />
-<strong> Demo: Maximo Team center integration </strong> (20 minutes) |
-| <strong> Navigating Partner portal </strong> (20 minutes) <br /> (Accessing seller training material, product sizing & pricing considerations) <br /> |
+| <strong> Building SLM demo/PoC environment </strong> (20 minutes) <br /> [Presentation]() |
+| <strong> Maximo Manage Setup </strong> (3 hours) <br /> (Install OCP & Manage on AWS EC2) |
+| <strong> Teamcenter Setup </strong> (1.5 hours) <br /> (Provision an SLM Teamcenter image) |
+| <strong> SLM Connector setup </strong> (2 hours) <br /> (Install and setup App Connect on AWS, test integration flows) |
 
 
 ## Prerequisites
@@ -24,6 +22,5 @@ The goal of this session is to learn the extended capabilities of Maximo Manage.
 ## Additional resources
 
 - [Partner portal](https://partnerportal.ibm.com/s/)
-- [Manage sales enablement kit](https://www.ibm.com/training/course/maximo-application-suite-manage-asset-management-MAX4316G)
-- [Course: Introduction to MAS](https://learn.ibm.com/course/view.php?id=10390 )  (Lessons 1 & 2, Duration: 30 minutes)
-- [Enterprise Asset Management Level 2](https://learn.ibm.com/course/view.php?id=10390 )  (Lessons 2, 3 & sales kit, Duration: 2 hours)
+- [Course: Maximo Manage Implementation for Practitioner level](https://learn.ibm.com/course/view.php?id=12681)  (Duration: 1 week)
+- [Course: Maximo Application Suite & Red Hat OpenShift Container Platform Deployment Technical Essentials](https://learn.ibm.com/mod/page/view.php?id=243207)  (Duration: 1 week)

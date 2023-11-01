@@ -18,3 +18,7 @@ runs:
     - name: Install Dependencies
       run: npm ci
       shell: bash
+
+    - name: Deploy to gh-pages
+      run: npm run deploy
+      shell: bash
